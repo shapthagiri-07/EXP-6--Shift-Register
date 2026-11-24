@@ -39,7 +39,7 @@ module shift_reg (
   assign sout = Q[3];
 endmodule
 
-Testbench Program
+## Testbench Program
 // gedit tb6.v
  
 module tb6;
